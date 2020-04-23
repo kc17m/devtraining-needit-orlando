@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="cmdb_ci" label="Accessory" max_length="40" name="cmdb_ci_acc" sizeclass="0" text_index="true" type="collection">
+        <element label="New Data Structure" max_length="800" name="x_58872_needit_u_data_structure_1" type="data_structure"/>
+        <element label="New Duration" max_length="40" name="x_58872_needit_u_glide_duration_12" type="glide_duration"/>
+        <element attributes="edge_encryption_enabled=true" label="New Date/Time" max_length="40" name="x_58872_needit_u_glide_date_time_14" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="New Date/Time" max_length="40" name="x_58872_needit_u_glide_date_time_2" type="glide_date_time"/>
+        <element label="New Due Date" max_length="40" name="x_58872_needit_u_due_date_4" type="due_date"/>
+        <element label="New Due Date" max_length="40" name="x_58872_needit_u_due_date_11" type="due_date"/>
+        <element label="New Data Structure" max_length="800" name="x_58872_needit_u_data_structure_3" type="data_structure"/>
+        <element label="New Decimal" max_length="15" name="x_58872_needit_u_decimal_13" type="decimal"/>
+        <element label="New Field Name" max_length="80" name="x_58872_needit_u_field_name_6" type="field_name"/>
+        <element attributes="edge_encryption_enabled=true" label="New Date" max_length="40" name="x_58872_needit_u_glide_date_10" type="glide_date"/>
+        <element label="New Duration" max_length="40" name="x_58872_needit_u_glide_duration_5" type="glide_duration"/>
+    </element>
+</database>
